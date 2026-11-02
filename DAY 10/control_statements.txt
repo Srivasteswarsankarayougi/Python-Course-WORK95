@@ -1,0 +1,41 @@
+1.Simple if
+Syntax-
+if cond:
+      print True
+      
+2.if_else
+
+3.if-elif-else
+
+4.Nested if
+
+REAL WORLD APPLICATION EXAMPLES FT DIGILOCKER
+
+1.Simple if
+Check document availability
+
+2.if_else
+User login authentication
+
+3.if-elif-else
+Select document type
+
+4.Nested if
+Secure document access
+
+REAL WORLD APPLICATION EXAMPLES FT SWIGGY
+1.if – 
+Restaurant availability
+2.if-else –
+Minimum order amount
+3.if-elif-else –
+ Delivery charges
+4.Nested if –
+ Order placement
+
+REAL WORLD APPLICATION EXAMPLES FT INSTAGRAM
+
+1.Simple if
+Like a post
+2.if-else
+Follow a user
