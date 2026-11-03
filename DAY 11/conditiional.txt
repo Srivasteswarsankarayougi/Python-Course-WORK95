@@ -1,0 +1,16 @@
+1.Simple if
+Syntax-
+if cond:
+      print True
+      
+2.if_else
+Syntax-
+if cond:
+    #statment
+else:
+    #statment
+
+
+3.if-elif-else
+
+4.Nested if
